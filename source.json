@@ -12,7 +12,6 @@
         "url":"http://github.com/derpynewbie/vpm-repos",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
     "githubRepos":[
         "derpynewbie/NewbieCommons",
         "derpynewbie/NewbieLogger"
